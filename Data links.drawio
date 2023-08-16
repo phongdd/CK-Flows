@@ -1,34 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T04:51:47.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Gf5ZEiTaZj2H7-ZlSVrz" version="21.6.8" type="github" pages="2">
-  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1674" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-08-16T04:58:47.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-nn5_20sXVEaZnh_8E96" version="21.6.8" type="github" pages="2">
+  <diagram name="EBR" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1339" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LepKvFuuTWkWVyBC9ynz-1" value="nri-mdb.circlek.com.vn.hqdb.vnck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="240" height="206" as="geometry">
+          <mxGeometry x="40" y="42" width="320" height="206" as="geometry">
             <mxRectangle x="40" y="40" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-2" value="to_ar_hcmc.ar_invoice_header_table" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-1">
-          <mxGeometry y="26" width="240" height="30" as="geometry" />
+          <mxGeometry y="26" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-3" value="to_ar_hcmc.cash_balancing_payment&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-1">
-          <mxGeometry y="56" width="240" height="30" as="geometry" />
+          <mxGeometry y="56" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-6" value="to_ar_hcmc.cash_balancing_sales&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-1">
-          <mxGeometry y="86" width="240" height="30" as="geometry" />
+          <mxGeometry y="86" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-7" value="to_ar_hn.ar_invoice_header_table&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-1">
-          <mxGeometry y="116" width="240" height="30" as="geometry" />
+          <mxGeometry y="116" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-8" value="to_ar_hn.cash_balancing_payment&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-1">
-          <mxGeometry y="146" width="240" height="30" as="geometry" />
+          <mxGeometry y="146" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-9" value="to_ar_hn.cash_balancing_sales&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-1">
-          <mxGeometry y="176" width="240" height="30" as="geometry" />
+          <mxGeometry y="176" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-10" value="172.32.142.25.NRIHQDB.sa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="280" height="210" as="geometry" />
+          <mxGeometry x="520" y="38" width="280" height="210" as="geometry">
+            <mxRectangle x="620" y="30" width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LepKvFuuTWkWVyBC9ynz-11" value="ar_invoice_header" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-10">
           <mxGeometry y="26" width="280" height="30" as="geometry" />
@@ -39,17 +41,39 @@
         <mxCell id="LepKvFuuTWkWVyBC9ynz-13" value="cash_balancing_sales" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="LepKvFuuTWkWVyBC9ynz-10">
           <mxGeometry y="86" width="280" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="LepKvFuuTWkWVyBC9ynz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LepKvFuuTWkWVyBC9ynz-6" target="LepKvFuuTWkWVyBC9ynz-13">
+        <mxCell id="LepKvFuuTWkWVyBC9ynz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LepKvFuuTWkWVyBC9ynz-6" target="LepKvFuuTWkWVyBC9ynz-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aVNiDR2cMYvUeQlXvLYl" name="Page-2">
-    <mxGraphModel dx="1674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="aVNiDR2cMYvUeQlXvLYl" name="Daily sales">
+    <mxGraphModel dx="1674" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D9GC-h_7h2NrDe6Hv4p8-1" value="nri-mdb.circlek.com.vn.hqdb.vnck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="42" width="320" height="86" as="geometry">
+            <mxRectangle x="40" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9GC-h_7h2NrDe6Hv4p8-4" value="to_ar_hcmc.cash_balancing_sales&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="D9GC-h_7h2NrDe6Hv4p8-1">
+          <mxGeometry y="26" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D9GC-h_7h2NrDe6Hv4p8-7" value="to_ar_hn.cash_balancing_sales&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="D9GC-h_7h2NrDe6Hv4p8-1">
+          <mxGeometry y="56" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D9GC-h_7h2NrDe6Hv4p8-8" value="nri-mdb.circlek.com.vn.hqdb.vnck" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="414" y="42" width="320" height="86" as="geometry">
+            <mxRectangle x="40" y="40" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D9GC-h_7h2NrDe6Hv4p8-9" value="to_ar_hcmc.cash_balancing_sales&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="D9GC-h_7h2NrDe6Hv4p8-8">
+          <mxGeometry y="26" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D9GC-h_7h2NrDe6Hv4p8-10" value="to_ar_hn.cash_balancing_sales&amp;nbsp;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="D9GC-h_7h2NrDe6Hv4p8-8">
+          <mxGeometry y="56" width="320" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
