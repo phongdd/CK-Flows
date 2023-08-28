@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T07:32:28.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NQwzg80SKmn4Off8JQfW" version="21.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-28T10:10:58.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0bfBksRnU9cOt1m9utWh" version="21.6.9" type="github" pages="3">
   <diagram name="EBR" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1612" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hfu1hvSGRNbLn7H8gPJR" name="Page-3">
-    <mxGraphModel dx="1116" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="pnaF4Mr4aYZimFjnbdcA-7" value="&lt;div&gt;oradb.ora_inv_adjust&lt;/div&gt;&lt;div&gt;oradb.ora_inv_receiving&lt;/div&gt;&lt;div&gt;oradb.ora_inv_return&lt;/div&gt;&lt;div&gt;oradb.ora_inv_returnpo&lt;/div&gt;&lt;div&gt;oradb.ora_inv_transfer&lt;/div&gt;&lt;div&gt;oradb.ora_sale_ar_header&lt;/div&gt;&lt;div&gt;oradb.ora_sale_ar_line&lt;/div&gt;&lt;div&gt;oradb.ora_sale_payment&lt;/div&gt;&lt;div&gt;oradb.ora_sale_service&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pnaF4Mr4aYZimFjnbdcA-6">
           <mxGeometry y="26" width="320" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="pnaF4Mr4aYZimFjnbdcA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pnaF4Mr4aYZimFjnbdcA-9" target="pnaF4Mr4aYZimFjnbdcA-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
