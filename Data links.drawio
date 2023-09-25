@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T10:10:58.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0bfBksRnU9cOt1m9utWh" version="21.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-25T04:55:55.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lSKNMkth1-1C-bfTxxBO" version="21.7.5" type="github" pages="3">
   <diagram name="EBR" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1612" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aVNiDR2cMYvUeQlXvLYl" name="Daily sales 2 &amp; 3">
-    <mxGraphModel dx="1612" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,27 +101,75 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hfu1hvSGRNbLn7H8gPJR" name="Page-3">
-    <mxGraphModel dx="1075" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pnaF4Mr4aYZimFjnbdcA-1" value="ora-prd-pgdb.circlek.com.vn" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="320" height="180" as="geometry">
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-1" value="ora-prd-pgdb.circlek.com.vn" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="42" width="320" height="296" as="geometry">
             <mxRectangle x="40" y="40" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pnaF4Mr4aYZimFjnbdcA-9" value="&lt;div&gt;oracle.inv_adjust_s&lt;/div&gt;&lt;div&gt;oracle.inv_receiving_s&lt;/div&gt;&lt;div&gt;oracle.inv_return_s&lt;/div&gt;&lt;div&gt;oracle.inv_return_po_s&lt;/div&gt;&lt;div&gt;oracle.inv_transfer_s&lt;/div&gt;&lt;div&gt;oracle.sale_ar_header_s&lt;/div&gt;&lt;div&gt;oracle.sale_ar_line_s&lt;/div&gt;&lt;div&gt;oracle.sale_payment_s&lt;/div&gt;&lt;div&gt;oracle.sale_service_s&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pnaF4Mr4aYZimFjnbdcA-1">
-          <mxGeometry y="26" width="320" height="154" as="geometry" />
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-2" value="oracle.inv_adjust_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="26" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pnaF4Mr4aYZimFjnbdcA-6" value="stg-dwh.circlek.com.vn" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="320" height="180" as="geometry">
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-3" value="oracle.inv_receiving_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="56" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-4" value="oracle.inv_return_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="86" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-5" value="oracle.inv_return_po_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="116" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-7" value="oracle.inv_transfer_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="146" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-8" value="oracle.sale_ar_header_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="176" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-9" value="oracle.sale_ar_line_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="206" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-10" value="oracle.sale_payment_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="236" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUXCGQJo7-Am9zn_HTlt-11" value="oracle.sale_service_s" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="uUXCGQJo7-Am9zn_HTlt-1">
+          <mxGeometry y="266" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-1" value="stg-dwh.circlek.com.vn" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="42" width="320" height="296" as="geometry">
             <mxRectangle x="40" y="40" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pnaF4Mr4aYZimFjnbdcA-7" value="&lt;div&gt;oradb.ora_inv_adjust&lt;/div&gt;&lt;div&gt;oradb.ora_inv_receiving&lt;/div&gt;&lt;div&gt;oradb.ora_inv_return&lt;/div&gt;&lt;div&gt;oradb.ora_inv_returnpo&lt;/div&gt;&lt;div&gt;oradb.ora_inv_transfer&lt;/div&gt;&lt;div&gt;oradb.ora_sale_ar_header&lt;/div&gt;&lt;div&gt;oradb.ora_sale_ar_line&lt;/div&gt;&lt;div&gt;oradb.ora_sale_payment&lt;/div&gt;&lt;div&gt;oradb.ora_sale_service&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="pnaF4Mr4aYZimFjnbdcA-6">
-          <mxGeometry y="26" width="320" height="154" as="geometry" />
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-2" value="oradb.ora_inv_adjust" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="26" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pnaF4Mr4aYZimFjnbdcA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pnaF4Mr4aYZimFjnbdcA-9" target="pnaF4Mr4aYZimFjnbdcA-7">
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-3" value="oradb.ora_inv_receiving" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="56" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-4" value="oradb.ora_inv_return" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="86" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-5" value="oradb.ora_inv_returnpo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="116" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-6" value="oradb.ora_inv_transfer" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="146" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-7" value="oradb.ora_sale_ar_header" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="176" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-8" value="oradb.ora_sale_ar_line" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="206" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-9" value="oradb.ora_sale_payment" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="236" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-10" value="oradb.ora_sale_service" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="nzAR3YOYhGcfAnlhcH_K-1">
+          <mxGeometry y="266" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nzAR3YOYhGcfAnlhcH_K-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uUXCGQJo7-Am9zn_HTlt-7" target="nzAR3YOYhGcfAnlhcH_K-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
