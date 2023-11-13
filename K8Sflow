@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T03:34:17.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.0" etag="i3QVCClXbQTMkZui9Sbe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T07:33:56.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8awY4jEpztfvWSGuJrB0" version="22.1.0" type="github">
   <diagram name="Page-1" id="Ep3Xfz_K8mXjMA4rtnxE">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3JrUin8s66NVWH5bJzqi-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;https://viblo.asia/p/k8s-phan-17-xay-dung-luong-cicd-voi-gitlab-va-jenkins-RnB5pJAGZPG&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="580" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
